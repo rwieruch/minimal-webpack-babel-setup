@@ -11,7 +11,7 @@
   "author": "Robin Wieruch <opensource@rwieruch.com> (https://www.robinwieruch.de)",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
     "webpack": "^4.39.1",
